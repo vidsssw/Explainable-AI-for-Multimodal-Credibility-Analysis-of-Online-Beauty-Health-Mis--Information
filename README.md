@@ -1,4 +1,4 @@
-# Explainable-AI-for-Multimodal-Credibility-Analysis-of-Online-Beauty-Health-Mis--Information
+# Explainable-AI-for-Multimodal-Credibility-Analysis-of-Online-Beauty-Health-Mis-Information
  - This project proposes an Explainable AI- assisted Multimodal Credibility Assessment System for health blogs hosted online
  that examines the credibility of the platform where the blog is hosted, the credibility of the author of the blog and the credibility of the images that contribute to the blog.
  - This novel framework contributes to the existing body of knowledge by assessing the credibility of misleading beauty blogs using multiple crucial modalities which would lead to
